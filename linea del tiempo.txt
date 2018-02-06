@@ -1,0 +1,107 @@
+ Generacion
+1940 - 1950  Evento aparición de la 1° generación de computadoras
+Aparicion
+1947 - 1949  Aparicion de los sistemas operativos, aparicion discreta y bastante simple tales como el monitor recidente y el almacenamiento temporal
+
+Sistema Batch
+1950 - 1955  A principios de los años 50 con el objeto de facilitar la interacción entre persona y computadora,
+ los sistemas operativos hacen una aparición discreta y bastante simple, con conceptos tales como el monitor residente,
+ el proceso por lotes y el almacenamiento temporal.
+
+
+2 Generacion
+1950 - 1960  reemplazó a las válvulas de vacío por los transistores.
+Por eso, las computadoras de la segunda generación son más pequeñas y consumen menos electricidad que las anteriores,
+ la forma de comunicación con estas nuevas computadoras es mediante lenguajes más avanzados que el lenguaje de máquina,
+ y que reciben el nombre de "lenguajes de alto nivel" o lenguajes de programación.
+
+
+Multiprogramación
+1960 - 1965  En un sistema multiprogramado la memoria principal alberga a más de un programa de usuario.
+
+
+Circuitos integrados
+1960 - 1965  Aparicion de los circuitos integrados, cambios notorios en varios campos de la informatica
+
+
+Tiempo real
+1963 - 1967  Estos sistemas se usan en entornos donde se deben aceptar y procesar en tiempos muy breves un gran número de sucesos,
+ en su mayoría externos al ordenador. Si el sistema no respeta las restricciones de tiempo en las que las operaciones deben entregar
+ su resultado se dice que ha fallado.
+
+
+UNIX
+1964 - 1965  
+Aparicion del sistema operativo multiusuario-->Desarrollo de UNIIX
+
+
+Multiprocesador
+1966 - 1969  Diseño que no se encuentran en ordenadores monoprocesador. Estos problemas derivan del hecho de que dos programas
+ pueden ejecutarse simultáneamente y, potencialmente, pueden interferirse entre sí. Concretamente, en lo que se refiere a las lecturas y escrituras en memoria.
+
+Inconvenientes de los Sistemas operativos
+1969 - 1975  MULTICS (Multiplexed Information and Computing Service): Originalmente era un proyecto cooperativo liderado
+ por Fernando Corbató del MIT, con General Electric y los laboratorios Bell, que comenzó en los 60, pero los laboratorios Bell abandonaron
+ en 1969 para comenzar a crear el sistema UNIX. Se desarrolló inicialmente para el mainframe GE-645, un sistema de 36 bits;
+ después fue soportado por la serie de máquinas Honeywell 6180.
+
+Sistemas operativos desarrollados
+1970 - 1975  Atlas Supervisor y el OS/360, los años 1970 marcaron el inicio de UNIX, a mediados de los 60 aparece Multics,
+ sistema operativo multiusuario - multitarea desarrollado por los laboratorios Bell de AT&T y Unix, convirtiéndolo en uno de
+ los pocos SO escritos en un lenguaje de alto nivel.
+
+Microordenadores
+1970 - 1975  APPLE DOS y APPLE sistema operativo para la serie de microordenadores
+
+Microsoft Windows
+1980 - 1990  A mediados de los años 80 se crea este sistema operativo, pero no es hasta la salida de (Windows 95) 
+que se le puede considerar un sistema operativo, solo era una interfaz gráfica del (MS-DOS) en el cual se disponía de unos
+ diskettes para correr los programas. Hoy en día es el sistema operativo más difundido en el ámbito doméstico aunque también
+ hay versiones para servidores como Windows NT. (Microsoft) ha diseñado también algunas versiones para superordenadores,
+ pero sin mucho éxito. Años después se hizo el (Windows 98) que era el más eficaz de esa época.
+
+Mac OS
+1980 - 1984  El lanzamiento oficial del ordenador Macintosh en enero de 1984, al precio de US $1,995 (después cambiado a $2,495 dólares)[1].
+ Incluía su sistema operativo Mac OS cuya características novedosas era una GUI (Graphic User Interface), Multitareas y Mouse.
+ Provocó diferentes reacciones entre los usuarios acostumbrados a la línea de comandos y algunos tachando el uso del Mouse como juguete.
+
+Microsoft enix
+1980 - 1985  Microsoft enix antiguo y obsoleto paresido a UNIX
+--> Aparion de Mac
+
+MS-DOS
+1981 - 1985  En 1981 Microsoft compró un sistema operativo llamado QDOS que, tras realizar unas pocas modificaciones,
+ se convirtió en la primera versión de MS-DOS (Micro Soft Disk Operating System). A partir de aquí se sucedieron una serie
+ de cambios hasta llegar a la versión 7.1, versión 8 en Windows Milenium, a partir de la cual MS-DOS dejó de existir como un componente del Sistema Operativo.
+
+GNU/Linux
+1990 - 1999  Este sistema al parecer es una versión mejorada de Unix, basado en el estándar POSIX,
+ un sistema que en principio trabajaba en modo comandos. Hoy en día dispone de Ventanas, gracias a un servidor gráfico
+ y a gestores de ventanas como KDE, GNOME entre muchos. Recientemente GNU/Linux dispone de un aplicativo que convierte
+ las ventanas en un entorno 3D como por ejemplo Beryl o Compiz. Lo que permite utilizar Linux de una forma visual atractiva.
+
+Windows NET
+1997 - 1998  Para 1997 el proyecto no había lanzado ninguna versión, por lo que los miembros de éste, coordinados por Jason Filby,
+ pudieron revivirlo. Se decidió cambiar el núcleo del sistema compatible con MS-DOS y de ahora en adelante basarlo en uno compatible
+ con Windows NT y así el proyecto pudo seguir adelante con el nombre actual de ReactOS, que comenzó en febrero de 1998, desarrollando
+ las bases del kernel y algunos drivers básicos.
+
+Windows 98
+1998 - 2003  windows 98. sistema operativo grafico, sucesor de windows 5
+
+ReactOS
+1998 - 2000  ReactOS (React Operating System) es un sistema operativo de código abierto destinado a lograr la compatibilidad
+ binaria con aplicaciones de software y controladores de dispositivos hechos para Microsoft Windows NT versiones 5.x en adelante
+ (Windows XP y sus sucesores).
+
+Windows ME
+1999 - 2000  Después se crearía el sistema operativo de (Windows ME) (Windows Millenium Edition) aproximadamente entre el año 1999 y el año 2000.
+
+Windows XP
+2001 - 2009Windows 7
+
+2009 - 2012  (Windows 7) (Windows Seven) que salió al mercado el 22 de octubre del 2009, dejando atrás al (Windows Vista),
+ que tuvo innumerables críticas durante el poco tiempo que duró en el mercado.
+
+Windows 8
+2012 - 2013
