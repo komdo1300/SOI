@@ -14,3 +14,12 @@ Examen de diagnostico
 	NTFS
 ¿que es la criptografia?
 	que es un tipo de seguridad 
+
+
+
+________________________________________________________________________________________________________________________________________________________
+Procesador
+(RDIM), y un registro de datos 
+de memoria 
+(RDAM), que contiene los dato
+es un diccionario
